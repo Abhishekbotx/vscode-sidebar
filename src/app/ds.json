@@ -1,0 +1,55 @@
+[
+  {
+    "id": "fld_public_a1x9",
+    "name": "public",
+    "isFolder": true,
+    "children": [
+      {
+        "id": "fld_asset_b7k2",
+        "name": "asset",
+        "isFolder": true
+      },
+      {
+        "id": "file_font_public_c3m8",
+        "name": "font.ts",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "id": "file_package_d4p1",
+    "name": "package.json",
+    "isFolder": false
+  },
+  {
+    "id": "fld_src_e8q5",
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "id": "fld_app_f2v9",
+        "name": "app",
+        "isFolder": true,
+        "children": [
+          {
+            "id": "fld_components_g6t4",
+            "name": "components",
+            "isFolder": true,
+            "children": [
+              {
+                "id": "file_movielist_h9w7",
+                "name": "movielist.tsx",
+                "isFolder": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "file_font_src_j1n3",
+        "name": "font.ts",
+        "isFolder": false
+      }
+    ]
+  }
+]
